@@ -10,7 +10,7 @@ nav_order: 1
 
 | Command Name | Command Description | Command Usage | Permission |
 |:-------------|:------------------|:------|:------|
-|Jump Height   | Change your or other players jump height. 0 = Freeze, 1 = Normal | /jumpheight [user] <jumpHeight>  | NewEssentials:commands.jumpheight.other  |
-| out of stock | good and plenty   | nice  | nice  |
-| ok           | good `oreos`      | hmm   | hmm   |
-| ok           | good `zoute` drop | yumm  | yumm  |
+|Jump Height   | Change your or other players jump height. 0 = Freeze, 1 = Normal | /jumpheight [user] [jumpHeight]  | NewEssentials:commands.jumpheight.other  |
+| Jump | Jump to where you're looking   | /jump  | NewEssentials:commands.jump  |
+| Gravity | Change your or other player gravity. 0 = Freeze, 1 = Normal      | /gravity [user] [gravity]   | NewEssentials:commands.gravity.other   |
+| Freeze         | Freeze or unfreeze a player | /freeze [player]  | NewEssentials:commands.freeze  |
