@@ -7,6 +7,12 @@ nav_order: 1
 
 # NewEssentials Plugin
 
+## Install Command
+
+```
+openmod install Kr4ken.NewEssentials
+```
+
 
 | Command Name | Command Description | Command Usage | Permission |
 |:-------------|:------------------|:------|:------|
