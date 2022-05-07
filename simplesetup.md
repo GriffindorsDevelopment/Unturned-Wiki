@@ -1,6 +1,6 @@
 ---
 title: Simple Unturned Server Setup
-parent: Test
+parent: Welcome
 has_children: true
 nav_order: 1
 ---
