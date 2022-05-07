@@ -1,7 +1,7 @@
 ---
 title: NewEssentials
 has_children: false
-parent: openmodmain
+parent: Openmod Plugins
 nav_order: 1
 ---
 
