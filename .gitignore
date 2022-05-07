@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/.vs/Unturned-Wiki/v17
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
