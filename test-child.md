@@ -1,10 +1,8 @@
 ---
-title: Child of Test
+title: Simple Unturned Server Setup
 parent: Test
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
-
-I am a child page.
+# Simple Unturned Server Setup
